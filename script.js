@@ -11,7 +11,7 @@ const MATCH_INFO = {
 const SERVICE_MONTHS = {
   army: 18,
   navy: 20,
-  airforce: 22
+  airforce: 21
 };
 
 // "원금(내 납입액)에 대해 5% 이자" 적용
